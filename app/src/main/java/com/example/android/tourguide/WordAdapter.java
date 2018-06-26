@@ -1,15 +1,12 @@
 package com.example.android.tourguide;
 
 import android.content.Context;
-import android.support.v4.content.ContextCompat;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
-
-import com.example.android.tourguide.Word;
 
 import java.util.ArrayList;
 
@@ -37,6 +34,7 @@ public class WordAdapter extends ArrayAdapter<Word> {
         descriptionTextView.setText(currentWord.getDescriptionOfImage());
 
         ImageView imageView = (ImageView) listItemView.findViewById(R.id.image);
+        imageView.setImageResource(currentWord.getImageResourceId());
 
         return listItemView;
 
