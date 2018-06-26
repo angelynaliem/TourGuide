@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Tour Guide of Our Home</string>
+
+    <!-- Category name for space [CHAR LIMIT=20] -->
+    <string name="category_space">Space</string>
+
+    <!-- Category name for the food [CHAR LIMIT=20] -->
+    <string name="category_food">Food</string>
+
+    <!-- Category name for the activities [CHAR LIMIT=20] -->
+    <string name="category_activity">Activities</string>
+
+    <!-- Category name for the events [CHAR LIMIT=20] -->
+    <string name="category_event">Events</string>
+
+    <string name="space_playground">Playground</string>
+    <string name="space_living_room">Living Room</string>
+    <string name="space_kitchen">Kitchen</string>
+    <string name="space_playground_description">Right in our backyard</string>
+    <string name="space_living_room_description">A favorite nap place</string>
+    <string name="space_kitchen_description">Sending off delicious aromas daily</string>
+    <string name="food_modern_succotash">Modern Succotash</string>
+    <string name="food_chicken_tagine">Chicken Tagine, Chickpeas, Apricots</string>
+    <string name="food_blueberry_cobbler">Texas Style Blueberry Cobbler</string>
+    <string name="food_modern_succotash_description">Serves 4 to 6</string>
+    <string name="food_chicken_tagine_description">Serves 8</string>
+    <string name="food_blueberry_cobbler_description">Serves 8 to 10</string>
+    <string name="event_housewarming">House Warming Party</string>
+    <string name="event_housewarming_description">June 25, 3 pm. Please RSVP</string>
+    <string name="activity_cutting_board">Cutting Board</string>
+    <string name="activity_piano">Piano</string>
+    <string name="activity_vacuum_cleaner">Vacuum cleaner</string>
+    <string name="activity_cutting_board_description">Cut up some fruits and veggies</string>
+    <string name="activity_piano_description">Play some music</string>
+    <string name="activity_vacuum_cleaner_description">Clean the crumbs off the floor</string>
+
+</resources>
